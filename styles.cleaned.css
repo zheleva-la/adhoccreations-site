@@ -302,27 +302,6 @@ h1{
   background: rgba(0,0,0,0.05);
 }
 
-/* Process page tweaks */
-.steps--process {
-  margin-top: 22px;
-}
-
-.process-block {
-  margin-top: 28px;
-}
-
-.process-list {
-  margin: 0;
-  padding-left: 18px;
-  color: var(--muted);
-  max-width: 80ch;
-}
-
-.process-list li {
-  margin: 8px 0;
-}
-
-
 
 
 @media (max-width: 900px){
