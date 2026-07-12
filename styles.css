@@ -52,6 +52,12 @@ a:hover{ text-decoration: underline; }
 .nav a:hover{ color: var(--ink); text-decoration: none; }
 
 .nav-toggle{
+  display: none;
+  border: 1px solid var(--line);
+  background: var(--card);
+  padding: 10px 12px;
+  border-radius: 999px;
+  cursor: pointer;
   color: var(--ink);
   -webkit-tap-highlight-color: transparent; /* removes blue tap flash on iOS */
   outline: none;
